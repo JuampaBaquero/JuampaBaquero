@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juampa 👋 
 
-Soy estudiante de **Ciencias de Datos y Ciencias de la Computación**. Me apasiona el bajo nivel, la optimización y entender qué pasa "detrás de cámaras" en cada línea de código. Mi enfoque no es solo resolver el problema, sino encontrar la estructura más eficiente para hacerlo.
+Soy estudiante de **Ciencia de Datos**. Me apasiona el bajo nivel, la optimización y entender qué pasa "detrás de cámaras" en cada línea de código. Mi enfoque no es solo resolver el problema, sino encontrar la estructura más eficiente para hacerlo.
 
 ### 🛠️ En lo que estoy trabajando
 - **Programación Competitiva:** Entrenando duro en plataformas como CSES, USACO y VJudge. Me especializo en estructuras de datos complejas (árboles AVL, Segment Trees, Grafos) y análisis de complejidad.
