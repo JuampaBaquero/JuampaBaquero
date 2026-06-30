@@ -2,15 +2,13 @@
 
 I'm a Data Science student interested in machine learning and data engineering.
 I like building things that solve real problems — especially ones close to home.
-
-Currently working on a crime data analysis project using public Colombian datasets,
-PostgreSQL, and Python. Learning something new every day.
+I'm creating a dummy website of Angry Birds (my favorite game) to understand a bit of Frontend.
 
 ---
 
 ## What I work with
 
-- **Languages:** SQL, Java, C++, Python
+- **Languages:** Python, SQL, Java, C++, html, js
 - **Data:** pandas, scikit-learn, matplotlib
 - **Databases:** PostgreSQL, MySQL, Oracle
 - **Tools:** Docker, Git, FastAPI, Jupyter
@@ -19,9 +17,8 @@ PostgreSQL, and Python. Learning something new every day.
 
 ## What I'm building
 
-- **A quantum circuit simulator** — a simulator-based on the IBM Quantum Circuit Simulator
-- Stack: Python - JavaScript - fastAPI and Quisquit learning  
-
+- I'm working on a project of data analysis of the traffic in a specific point in Bogotá, my city
+- *stack*: python, connection to APIs, use of open data (TomTom), numpy, pandas and more
 ---
 
 ## A bit more about me
@@ -37,4 +34,4 @@ stop at a screen.
 Data analyst and data science roles. Currently a student, open to internships
 and junior positions.
 
-📫 Reach me at: `juanpablobaquero23@gmail.com`
+📫 Reach me at: `juanpablobaquero23@gmail.com` or `juampabaquero@gmail.com`
