@@ -19,6 +19,7 @@ I'm studying and creating code about AI, backend and more.
 
 When I'm not coding, I'm either playing salsa or jazz on my piano and guitar, or deep into
 a Overwatch and Trackmania. Send me a message if you wanna play with me!
+
 ---
 
 ## Open to
